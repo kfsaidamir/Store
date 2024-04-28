@@ -1,0 +1,19 @@
+[
+    {
+        "img":"images/f1.png",
+        "h1":"Delicious Pizza"
+    },
+    {
+        "img":"images/f2.png",
+        "h1":"Delicious Burger"
+    },
+    {
+        "img":"images/f3.png",
+        "h1":"Delicious Pizza"
+    },
+    {
+        "img":"images/f4.png",
+        "h1":"Delicious Pasta"
+
+    }
+]
